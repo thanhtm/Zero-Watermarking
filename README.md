@@ -5,4 +5,5 @@
   author={Pham Thai, Hung and Ta Minh, Thanh},
   journal={LQDTU-JICT is a special edition of the Journal of Science and Technology (JST)},
   year={2024}
+  publisher={JICT}
 }
